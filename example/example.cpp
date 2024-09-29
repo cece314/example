@@ -2,8 +2,13 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Example\n";
+    char f, m, l;
+    f = 'C';
+    m = 'L';
+    l = 'Q';
+
+    cout << f << m << l << endl;
 }
